@@ -7,7 +7,28 @@
         "children": [{
           "name": "LP Test: Test1",
           "children": [{
-            "name": "Messages:CRM Collect"
+            "name": "Messages:CRM Collect",
+            "children": [{
+              "name": "300x250"
+            }, {
+              "name": "970x250"
+            }, {
+              "name": "970x90"
+            }, {
+              "name": "320x480"
+            }, {
+              "name": "1024x768"
+            }, {
+              "name": "768x1024"
+            }, {
+              "name": "480x320"
+            }, {
+              "name": "728x90"
+            }, {
+              "name": "320x50"
+            }, {
+              "name": "300x50"
+            }]
           }]
         }]
       },
