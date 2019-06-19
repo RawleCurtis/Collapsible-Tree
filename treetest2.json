@@ -1,0 +1,68 @@
+{
+  "name": "project",
+  "children": [{
+    "name": "Region: US",
+    "children": [{
+        "name": "Funnel: Acquire",
+        "children": [{
+          "name": "LP Test: Test1",
+          "children": [{
+            "name": "Messages:CRM Collect",
+            "children": [{
+              "name": "300x250"
+            }, {
+              "name": "970x250"
+            }, {
+              "name": "970x90"
+            }, {
+              "name": "320x480"
+            }, {
+              "name": "1024x768"
+            }, {
+              "name": "768x1024"
+            }, {
+              "name": "480x320"
+            }, {
+              "name": "728x90"
+            }, {
+              "name": "320x50"
+            }, {
+              "name": "300x50"
+            }]
+          }]
+        }]
+      },
+      {
+        "name": "Attract",
+        "children": [{
+            "name": "BetweennessCentrality",
+            "value": 3534
+          },
+          {
+            "name": "LinkDistance",
+            "value": 5731
+          },
+          {
+            "name": "MaxFlowMinCut",
+            "value": 7840
+          },
+          {
+            "name": "ShortestPaths",
+            "value": 5914
+          },
+          {
+            "name": "SpanningTree",
+            "value": 3416
+          }
+        ]
+      },
+      {
+        "name": "Engage",
+        "children": [{
+          "name": "AspectRatioBanker",
+          "value": 7074
+        }]
+      }
+    ]
+  }]
+}
